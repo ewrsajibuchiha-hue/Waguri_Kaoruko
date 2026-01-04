@@ -30,28 +30,28 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "🌸💖𝐀𝐇𝐎𝐍𝐀-𝐓𝐀𝐒𝐍𝐈𝐌💖🌸",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "100078792977084",
+        ""
       ]
     }
   },
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "100078792977084",
+      ""
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "100078792977084",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
